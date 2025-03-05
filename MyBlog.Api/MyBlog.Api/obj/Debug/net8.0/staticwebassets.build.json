@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "yzB7yNUciHTPigjOyu0kMvM8hzhpvioEPux0GornBeI=",
+  "Source": "MyBlog.Api",
+  "BasePath": "_content/MyBlog.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyBlog.Api\\wwwroot",
+      "Source": "MyBlog.Api",
+      "ContentRoot": "D:\\MyBlogProgram\\MyBlog.Api\\MyBlog.Api\\wwwroot\\",
+      "BasePath": "_content/MyBlog.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\MyBlogProgram\\MyBlog.Api\\MyBlog.Api\\wwwroot\\images\\1.png",
+      "SourceId": "MyBlog.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MyBlogProgram\\MyBlog.Api\\MyBlog.Api\\wwwroot\\",
+      "BasePath": "_content/MyBlog.Api",
+      "RelativePath": "images/1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1.png"
+    }
+  ]
+}

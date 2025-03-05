@@ -1,0 +1,15 @@
+D:\MyBlogProgram\MyBlog.Api\IService\bin\Debug\net8.0\IService.deps.json
+D:\MyBlogProgram\MyBlog.Api\IService\bin\Debug\net8.0\IService.dll
+D:\MyBlogProgram\MyBlog.Api\IService\bin\Debug\net8.0\IService.pdb
+D:\MyBlogProgram\MyBlog.Api\IService\obj\Debug\net8.0\IService.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyBlogProgram\MyBlog.Api\IService\obj\Debug\net8.0\IService.AssemblyInfoInputs.cache
+D:\MyBlogProgram\MyBlog.Api\IService\obj\Debug\net8.0\IService.AssemblyInfo.cs
+D:\MyBlogProgram\MyBlog.Api\IService\obj\Debug\net8.0\IService.csproj.CoreCompileInputs.cache
+D:\MyBlogProgram\MyBlog.Api\IService\obj\Debug\net8.0\IService.dll
+D:\MyBlogProgram\MyBlog.Api\IService\obj\Debug\net8.0\refint\IService.dll
+D:\MyBlogProgram\MyBlog.Api\IService\obj\Debug\net8.0\IService.pdb
+D:\MyBlogProgram\MyBlog.Api\IService\obj\Debug\net8.0\ref\IService.dll
+D:\MyBlogProgram\MyBlog.Api\IService\bin\Debug\net8.0\Entity.dll
+D:\MyBlogProgram\MyBlog.Api\IService\bin\Debug\net8.0\Entity.pdb
+D:\MyBlogProgram\MyBlog.Api\IService\obj\Debug\net8.0\IService.csproj.AssemblyReference.cache
+D:\MyBlogProgram\MyBlog.Api\IService\obj\Debug\net8.0\IService.csproj.Up2Date

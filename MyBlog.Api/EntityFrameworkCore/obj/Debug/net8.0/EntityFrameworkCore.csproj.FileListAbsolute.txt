@@ -1,0 +1,17 @@
+D:\MyBlogProgram\MyBlog.Api\EntityFrameworkCore\bin\Debug\net8.0\EntityFrameworkCore.deps.json
+D:\MyBlogProgram\MyBlog.Api\EntityFrameworkCore\bin\Debug\net8.0\EntityFrameworkCore.runtimeconfig.json
+D:\MyBlogProgram\MyBlog.Api\EntityFrameworkCore\bin\Debug\net8.0\EntityFrameworkCore.dll
+D:\MyBlogProgram\MyBlog.Api\EntityFrameworkCore\bin\Debug\net8.0\EntityFrameworkCore.pdb
+D:\MyBlogProgram\MyBlog.Api\EntityFrameworkCore\bin\Debug\net8.0\Entity.dll
+D:\MyBlogProgram\MyBlog.Api\EntityFrameworkCore\bin\Debug\net8.0\Entity.pdb
+D:\MyBlogProgram\MyBlog.Api\EntityFrameworkCore\obj\Debug\net8.0\EntityFrameworkCore.csproj.AssemblyReference.cache
+D:\MyBlogProgram\MyBlog.Api\EntityFrameworkCore\obj\Debug\net8.0\EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyBlogProgram\MyBlog.Api\EntityFrameworkCore\obj\Debug\net8.0\EntityFrameworkCore.AssemblyInfoInputs.cache
+D:\MyBlogProgram\MyBlog.Api\EntityFrameworkCore\obj\Debug\net8.0\EntityFrameworkCore.AssemblyInfo.cs
+D:\MyBlogProgram\MyBlog.Api\EntityFrameworkCore\obj\Debug\net8.0\EntityFrameworkCore.csproj.CoreCompileInputs.cache
+D:\MyBlogProgram\MyBlog.Api\EntityFrameworkCore\obj\Debug\net8.0\EntityFr.15BC9DF9.Up2Date
+D:\MyBlogProgram\MyBlog.Api\EntityFrameworkCore\obj\Debug\net8.0\EntityFrameworkCore.dll
+D:\MyBlogProgram\MyBlog.Api\EntityFrameworkCore\obj\Debug\net8.0\refint\EntityFrameworkCore.dll
+D:\MyBlogProgram\MyBlog.Api\EntityFrameworkCore\obj\Debug\net8.0\EntityFrameworkCore.pdb
+D:\MyBlogProgram\MyBlog.Api\EntityFrameworkCore\obj\Debug\net8.0\EntityFrameworkCore.genruntimeconfig.cache
+D:\MyBlogProgram\MyBlog.Api\EntityFrameworkCore\obj\Debug\net8.0\ref\EntityFrameworkCore.dll

@@ -1,0 +1,15 @@
+D:\MyBlogProgram\MyBlog.Api\IRepository\bin\Debug\net8.0\IRepository.deps.json
+D:\MyBlogProgram\MyBlog.Api\IRepository\bin\Debug\net8.0\IRepository.dll
+D:\MyBlogProgram\MyBlog.Api\IRepository\bin\Debug\net8.0\IRepository.pdb
+D:\MyBlogProgram\MyBlog.Api\IRepository\obj\Debug\net8.0\IRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyBlogProgram\MyBlog.Api\IRepository\obj\Debug\net8.0\IRepository.AssemblyInfoInputs.cache
+D:\MyBlogProgram\MyBlog.Api\IRepository\obj\Debug\net8.0\IRepository.AssemblyInfo.cs
+D:\MyBlogProgram\MyBlog.Api\IRepository\obj\Debug\net8.0\IRepository.csproj.CoreCompileInputs.cache
+D:\MyBlogProgram\MyBlog.Api\IRepository\obj\Debug\net8.0\IRepository.dll
+D:\MyBlogProgram\MyBlog.Api\IRepository\obj\Debug\net8.0\refint\IRepository.dll
+D:\MyBlogProgram\MyBlog.Api\IRepository\obj\Debug\net8.0\IRepository.pdb
+D:\MyBlogProgram\MyBlog.Api\IRepository\obj\Debug\net8.0\ref\IRepository.dll
+D:\MyBlogProgram\MyBlog.Api\IRepository\bin\Debug\net8.0\Entity.dll
+D:\MyBlogProgram\MyBlog.Api\IRepository\bin\Debug\net8.0\Entity.pdb
+D:\MyBlogProgram\MyBlog.Api\IRepository\obj\Debug\net8.0\IRepository.csproj.AssemblyReference.cache
+D:\MyBlogProgram\MyBlog.Api\IRepository\obj\Debug\net8.0\IReposit.1D40EF52.Up2Date
